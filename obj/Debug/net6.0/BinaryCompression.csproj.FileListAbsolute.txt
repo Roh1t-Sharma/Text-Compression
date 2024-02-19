@@ -1,0 +1,14 @@
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\BinaryCompression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\BinaryCompression.AssemblyInfoInputs.cache
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\BinaryCompression.AssemblyInfo.cs
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\BinaryCompression.csproj.CoreCompileInputs.cache
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\bin\Debug\net6.0\BinaryCompression.exe
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\bin\Debug\net6.0\BinaryCompression.deps.json
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\bin\Debug\net6.0\BinaryCompression.runtimeconfig.json
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\bin\Debug\net6.0\BinaryCompression.dll
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\bin\Debug\net6.0\BinaryCompression.pdb
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\BinaryCompression.dll
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\refint\BinaryCompression.dll
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\BinaryCompression.pdb
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\BinaryCompression.genruntimeconfig.cache
+C:\Users\Vector\source\repos\TestProjectC#\BinaryCompression\obj\Debug\net6.0\ref\BinaryCompression.dll

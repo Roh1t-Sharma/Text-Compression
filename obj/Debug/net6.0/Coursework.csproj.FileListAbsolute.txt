@@ -1,0 +1,43 @@
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/Coursework.AssemblyInfoInputs.cache
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/Coursework.AssemblyInfo.cs
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/Coursework.csproj.CoreCompileInputs.cache
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/bin/Debug/net6.0/Coursework.exe
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/bin/Debug/net6.0/Coursework.deps.json
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/bin/Debug/net6.0/Coursework.runtimeconfig.json
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/bin/Debug/net6.0/Coursework.dll
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/bin/Debug/net6.0/Coursework.pdb
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/Coursework.dll
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/refint/Coursework.dll
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/Coursework.pdb
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/Coursework.genruntimeconfig.cache
+C:/Users/Vector/source/repos/TestProjectC#/BinaryCompression/obj/Debug/net6.0/ref/Coursework.dll
+D:/Учёба/3 Курс/Coursework/TestProject C#/bin/Debug/net6.0/Coursework.exe
+D:/Учёба/3 Курс/Coursework/TestProject C#/bin/Debug/net6.0/Coursework.deps.json
+D:/Учёба/3 Курс/Coursework/TestProject C#/bin/Debug/net6.0/Coursework.runtimeconfig.json
+D:/Учёба/3 Курс/Coursework/TestProject C#/bin/Debug/net6.0/Coursework.dll
+D:/Учёба/3 Курс/Coursework/TestProject C#/bin/Debug/net6.0/Coursework.pdb
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/Coursework.GeneratedMSBuildEditorConfig.editorconfig
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/Coursework.AssemblyInfoInputs.cache
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/Coursework.AssemblyInfo.cs
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/Coursework.csproj.CoreCompileInputs.cache
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/Coursework.dll
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/refint/Coursework.dll
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/Coursework.pdb
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/Coursework.genruntimeconfig.cache
+D:/Учёба/3 Курс/Coursework/TestProject C#/obj/Debug/net6.0/ref/Coursework.dll
+/Users/rohitsharma/Desktop/Coursework/bin/Debug/net6.0/Coursework
+/Users/rohitsharma/Desktop/Coursework/bin/Debug/net6.0/Coursework.deps.json
+/Users/rohitsharma/Desktop/Coursework/bin/Debug/net6.0/Coursework.runtimeconfig.json
+/Users/rohitsharma/Desktop/Coursework/bin/Debug/net6.0/Coursework.dll
+/Users/rohitsharma/Desktop/Coursework/bin/Debug/net6.0/Coursework.pdb
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.csproj.AssemblyReference.cache
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.AssemblyInfoInputs.cache
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.AssemblyInfo.cs
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.csproj.CoreCompileInputs.cache
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.dll
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/refint/Coursework.dll
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.pdb
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/Coursework.genruntimeconfig.cache
+/Users/rohitsharma/Desktop/Coursework/obj/Debug/net6.0/ref/Coursework.dll
